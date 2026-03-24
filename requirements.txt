@@ -1,0 +1,11 @@
+numpy<2.0
+pandas
+matplotlib
+seaborn
+missingno
+pmdarima
+holidays==0.41
+prophet
+lightgbm
+scikit-learn
+plotly
